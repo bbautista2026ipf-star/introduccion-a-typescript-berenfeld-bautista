@@ -2,7 +2,7 @@
   "name": "typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bbautista2026ipf-star/introduccion-a-typescript-berenfeld-bautista#readme",
   "devDependencies": {
-    "@types/node": "^26.6.6",
+    "@types/node": "^24.19.2",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   }
